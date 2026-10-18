@@ -1,0 +1,22 @@
+{
+  "wheel_id": 435,
+  "structure": "umbrella",
+  "slug": "retainingwallsperthwa-com-150",
+  "project": "retaining-walls-perth-suburb-guide-f6590ff896525b97d085a101bffd",
+  "parent_t1_ref": "retainingwallsperthwa.com-002",
+  "node_role": "buffer",
+  "money_target": "retainingwallsperthwa.com.au",
+  "primary_kw": "retaining walls perth suburb guide",
+  "intended_url": "https://sitesau.github.io/retainingwallsperthwa-com-150/",
+  "tier": "T2",
+  "writeback_nonce": "c36029efa1fce737",
+  "links": [
+    {
+      "target_url": "https://aumedia.neocities.org/retaining-walls-perth/",
+      "anchor": "Retaining Walls Perth: Costs, permits and material fit",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
